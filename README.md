@@ -1,4 +1,4 @@
-# Fashion Weather SQL 
+# Dress to Impress SQL 
 **Beginner SQL Coding for Stored Procedures assignment for WVU MIST 353** 
 
 
