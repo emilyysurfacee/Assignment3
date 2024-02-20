@@ -37,8 +37,8 @@
 
 1. spGetCartDetails
     * Description: Get all details for cart using CartID. Used to generate data for a user’s cart information.
-2. spGetClothingDetails
-    * Description: Get all details for clothing in the database using ClothingID. Used to generate data for each piece of clothing.
+2. spGetUserOccupationg
+    * Description: Get the occupation of the user based off their UserID.   
 3. spGetWeatherByTemp
     * Description: Get details from the weather using the temperature. Used to generate past weather data based on temperature inquiry.
 4. spGetOutfitDetails
