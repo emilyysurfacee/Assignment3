@@ -30,9 +30,23 @@
 -   **Needed weather data to be able to make the website more functional**
     
 -   **Machine-learning adaptation for the user to be able to interact with the website to create a lookbook**
-    
 
-- **Application data to move to mobile development**
+-   **Application data to move to mobile development**
+
+### Stored Procedures
+
+1. spGetCartDetails
+    * Description: Get all details for cart using CartID. Used to generate data for a user’s cart information.
+2. spGetClothingDetails
+    * Description: Get all details for clothing in the database using ClothingID. Used to generate data for each piece of clothing.
+3. spGetWeatherByTemp
+    * Description: Get details from the weather using the temperature. Used to generate past weather data based on temperature inquiry.
+4. spGetOutfitDetails
+    * Description: Get all details for each outfit using OutfitID. Used to generate all data related to each outfit. (occasion, clothing type, etc.)
+5. spGetClothingBySeason
+    * Description: Get details for a piece of clothing based on season selection. Used to generate all pieces of clothing in the database based on season inquiry.
+6. spGetClothingLessThan20
+    * Description: Get details for each piece of clothing priced under $20. Used to generate all pieces of clothing in the database that have a price less than $20.
 
 ## **Installation**
 
