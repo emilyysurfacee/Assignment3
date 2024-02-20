@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dress to Impress SQL 
 **Beginner SQL Coding for Stored Procedures assignment for WVU MIST 353** 
 
@@ -70,3 +71,6 @@
 
 # **Conclusion**
 **The application is currently in the opening stages and will need significant improvements to functional.   This assignment is strictly for learning and assignment submission for the MIST 353 class at West Virginia University.**
+=======
+"# MIST353_Spring24" 
+>>>>>>> 74f44f3 (first commit)
