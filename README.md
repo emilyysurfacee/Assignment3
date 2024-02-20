@@ -8,7 +8,11 @@
 
 - [Page Overview](#pageOverview)
 
+- [Message Statement](#MessageStatement)
+
 - [Improvements](#improvements)
+
+- [Stored Procedures](#storedprocedures)
 
 - [Installation](#installation)
 
@@ -22,6 +26,9 @@
 ## **Page Overview**
 
 **Within the SQL assignment, students were tasked with making six stored procedures to be able to integrate into their website.  With our fashion website, we integrated features such as a cart and fetching the details of items inside the database.**
+
+## **Message Statement**
+**We are excited to announce our innovative approach to enhancing user experience with our new application. By merging our website, we are streamlining the process of outfit selection. Users can now enjoy a personalized experience, with outfits curated based on their preferences, occasion type, and real-time weather data. Whether it's casual, formal, or professional attire, our unique algorithm takes into account the current weather conditions to ensure that outfits are not only stylish but also suitable for the day's forecast. From suggesting light layers for a sunny day to recommending a cozy coat for cooler temperatures, our app provides users with outfits that are both fashionable and weather-appropriate. Additionally, our algorithm prevents repeat selections by offering outfits at random, providing users with fresh and exciting choices every time. We are confident that this integration will revolutionize the way our customers engage with fashion, making it easier and more enjoyable than ever before.**
 
 ## **Improvements**
 
