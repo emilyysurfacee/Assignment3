@@ -67,7 +67,7 @@
 
 **Lectures by Joshua Meadows: WVU**
 
-**[https://www.w3schools.com/](https://www.w3schools.com/]**
+**https://www.w3schools.com/**
 
 **https://chat.openai.com/c/a953150b-49a6-4572-b060-fe3293198f2e**
 
